@@ -15,7 +15,7 @@ links:
    link: https://ieeexplore.ieee.org/abstract/document/8967922
    name: "Paper"
  - video:
-   link: https://www.youtube.com/watch?v=SIQsg_ZK0z8
+   link: https://youtu.be/SIQsg_ZK0z8
    name: "Video"
  - bibtex: 
    name: "Bibtex"
