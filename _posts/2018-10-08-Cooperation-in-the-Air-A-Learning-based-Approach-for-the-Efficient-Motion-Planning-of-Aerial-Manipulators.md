@@ -10,7 +10,7 @@ tags:
  - autonomous aerial vehicle
  - cooperative manipulation
 header:
-  teaser: /assets/image/thumbnail/IROS2018.png
+  teaser: /assets/image/thumbnail/RAM2018.png
 conference: RAM
 authors: <u>Hyoin Kim</u>, Hoseong Seo, Clark Youngdong Son, Hyeonbeom Lee, Suseong Kim, H Jin Kim
 links: 

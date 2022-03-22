@@ -9,7 +9,7 @@ tags:
  - autonomous aerial vehicle
  - cooperative manipulation
 header:
-  teaser: /assets/image/thumbnail/MasterThesis.png
+  teaser: /assets/image/thumbnail/TASE2016.png
 conference: TASE
 authors: Hyeonbeom Lee, <u>Hyoin Kim</u> and H. Jin Kim
 links: 

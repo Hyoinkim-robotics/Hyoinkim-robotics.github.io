@@ -9,7 +9,7 @@ tags:
  - autonomous aerial vehicle
  - cooperative manipulation
 header:
-  teaser: /assets/image/thumbnail/ICCAS2016.jpg
+  teaser: /assets/image/thumbnail/IROS2015.png
 conference: IROS
 authors: Hyeonbeom Lee, <u>Hyoin Kim</u>, and H. Jin Kim
 links: 

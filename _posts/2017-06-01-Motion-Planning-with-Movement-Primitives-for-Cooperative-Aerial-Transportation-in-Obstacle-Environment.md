@@ -9,7 +9,7 @@ tags:
  - autonomous aerial vehicle
  - cooperative manipulation
 header:
-  teaser: /assets/image/thumbnail/SMC2017.png
+  teaser: /assets/image/thumbnail/ICRA2017.png
 conference: ICRA
 authors: <u>Hyoin Kim</u>, Hyeonbeom Lee, Seungwon Choi, Yung-Kyun Noh, H Jin Kim
 links: 

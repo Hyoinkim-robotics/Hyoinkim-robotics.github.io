@@ -9,7 +9,7 @@ tags:
  - autonomous ground vehicle
  - cooperative manipulation
 header:
-  teaser: /assets/image/thumbnail/IJCAS2021.jpg
+  teaser: /assets/image/thumbnail/TASE2022.jpg
 conference: TASE
 authors: <u>Hyoin Kim</u>, Changsuk Oh, Inkyu Jang, Sungyong Park, Hoseong Seo, H Jin Kim
 links:

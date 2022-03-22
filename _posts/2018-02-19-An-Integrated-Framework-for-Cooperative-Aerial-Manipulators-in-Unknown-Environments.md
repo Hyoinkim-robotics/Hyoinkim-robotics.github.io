@@ -10,7 +10,7 @@ tags:
  - autonomous aerial vehicle
  - cooperative manipulation
 header:
-  teaser: /assets/image/thumbnail/US20200051253.png
+  teaser: /assets/image/thumbnail/RAL2018.png
 conference: RAL
 authors: Hyeonbeom Lee, <u>Hyoin Kim</u>, Woojin Kim, and H. Jin Kim
 links: 

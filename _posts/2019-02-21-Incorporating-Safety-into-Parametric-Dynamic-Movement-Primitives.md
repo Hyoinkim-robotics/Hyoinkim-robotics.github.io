@@ -8,7 +8,7 @@ tags:
  - autonomous aerial vehicle
  - cooperative manipulation
 header:
-  teaser: /assets/image/thumbnail/BMVC2019.png
+  teaser: /assets/image/thumbnail/RAL2019.png
 conference: RAL
 authors: <u>Hyoin Kim</u>, Hoseong Seo, Seungwon Choi, Claire J Tomlin, H Jin Kim
 links: 
