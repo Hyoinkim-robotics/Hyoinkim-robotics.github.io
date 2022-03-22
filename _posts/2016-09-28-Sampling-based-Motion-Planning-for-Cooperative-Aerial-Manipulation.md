@@ -5,7 +5,7 @@ categories:
  - Conference
 tags:
  - planning
- - unmanned aerial vehicle
+ - autonomous aerial vehicle
  - cooperative manipulation
 header:
   teaser: /assets/image/thumbnail/ICAS2016.png
