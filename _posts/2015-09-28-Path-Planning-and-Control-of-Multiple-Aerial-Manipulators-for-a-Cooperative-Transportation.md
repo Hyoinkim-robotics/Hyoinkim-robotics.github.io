@@ -1,5 +1,5 @@
 ---
-title: "Path Planning and Control of Multiple Aerial Manipulators for a Cooperative Transportation"
+title: "[IROS2015] Path Planning and Control of Multiple Aerial Manipulators for a Cooperative Transportation"
 categories:
  - Research
  - Conference

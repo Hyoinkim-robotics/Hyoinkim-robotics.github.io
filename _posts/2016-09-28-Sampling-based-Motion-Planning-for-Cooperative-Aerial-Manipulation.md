@@ -1,5 +1,5 @@
 ---
-title: "Sampling-based Motion Planning for Cooperative Aerial Manipulation"
+title: "[ICAS2016] Sampling-based Motion Planning for Cooperative Aerial Manipulation"
 categories:
  - Research
  - Conference

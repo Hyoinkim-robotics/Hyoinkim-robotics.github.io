@@ -1,5 +1,5 @@
 ---
-title: "Sampling-based Motion Planning for Aerial Pick-and-Place"
+title: "[IROS2019] Sampling-based Motion Planning for Aerial Pick-and-Place"
 categories:
  - Research
  - Conference

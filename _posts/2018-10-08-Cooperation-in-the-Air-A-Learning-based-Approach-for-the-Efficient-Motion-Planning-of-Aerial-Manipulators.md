@@ -1,5 +1,5 @@
 ---
-title: "Cooperation in the Air: A Learning-based Approach for the Efficient Motion Planning of Aerial Manipulators"
+title: "[RAM2018] Cooperation in the Air: A Learning-based Approach for the Efficient Motion Planning of Aerial Manipulators"
 categories:
  - Research
  - Journal

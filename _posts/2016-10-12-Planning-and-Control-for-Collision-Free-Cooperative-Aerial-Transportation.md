@@ -1,5 +1,5 @@
 ---
-title: "Planning and Control for Collision-free Cooperative Aerial Transportation"
+title: "[T-ASE2016] Planning and Control for Collision-free Cooperative Aerial Transportation"
 categories:
  - Research
  - Journal

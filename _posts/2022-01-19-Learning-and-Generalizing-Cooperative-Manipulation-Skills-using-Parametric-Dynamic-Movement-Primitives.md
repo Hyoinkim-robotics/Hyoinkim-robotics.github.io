@@ -1,5 +1,5 @@
 ---
-title: "Learning and Generalizing Cooperative Manipulation Skills using Parametric Dynamic Movement Primitives"
+title: "[T-ASE2022] Learning and Generalizing Cooperative Manipulation Skills using Parametric Dynamic Movement Primitives"
 categories:
  - Research
  - Journal

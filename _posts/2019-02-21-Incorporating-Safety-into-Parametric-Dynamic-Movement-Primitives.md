@@ -1,5 +1,5 @@
 ---
-title: "Incorporating Safety into Parametric Dynamic Movement Primitives"
+title: "[RAL2019] Incorporating Safety into Parametric Dynamic Movement Primitives"
 categories:
  - Research
  - Journal

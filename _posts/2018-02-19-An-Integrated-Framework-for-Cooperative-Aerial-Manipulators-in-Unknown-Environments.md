@@ -1,5 +1,5 @@
 ---
-title: "An Integrated Framework for Cooperative Aerial Manipulators in Unknown Environments"
+title: "[RAL2018] An Integrated Framework for Cooperative Aerial Manipulators in Unknown Environments"
 categories:
  - Research
  - Journal
