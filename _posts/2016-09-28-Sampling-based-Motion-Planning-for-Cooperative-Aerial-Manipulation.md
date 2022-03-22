@@ -5,10 +5,10 @@ categories:
  - Conference
 tags:
  - planning
- - autonomous aerial vehicle
+ - unmanned aerial vehicle
  - cooperative manipulation
 header:
-  teaser: /assets/image/thumbnail/ICROS2017.png
+  teaser: /assets/image/thumbnail/ICAS2016.png
 conference: ICAS
 authors: <u>Hyoin Kim</u>, Hyeonbeom Lee, and H. Jin Kim
 links: 

@@ -6,7 +6,7 @@ categories:
 tags:
  - planning
  - learning from demonstration 
- - autonomous aerial vehicle
+ - unmanned aerial vehicle
  - cooperative manipulation
 header:
   teaser: /assets/image/thumbnail/ICRA2017.png

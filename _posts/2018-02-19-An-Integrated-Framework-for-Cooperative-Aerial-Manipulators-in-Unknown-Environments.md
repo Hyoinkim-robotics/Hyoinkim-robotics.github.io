@@ -7,7 +7,7 @@ tags:
  - planning
  - control
  - learning from demonstration
- - autonomous aerial vehicle
+ - unmanned aerial vehicle
  - cooperative manipulation
 header:
   teaser: /assets/image/thumbnail/RAL2018.png

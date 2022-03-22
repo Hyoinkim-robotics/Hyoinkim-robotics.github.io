@@ -6,7 +6,7 @@ categories:
 tags:
  - planning
  - control
- - autonomous aerial vehicle
+ - unmanned aerial vehicle
  - cooperative manipulation
 header:
   teaser: /assets/image/thumbnail/IROS2015.png

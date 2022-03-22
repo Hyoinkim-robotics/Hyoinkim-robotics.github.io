@@ -6,7 +6,7 @@ categories:
 tags:
  - planning
  - learning from demonstration
- - autonomous ground vehicle
+ - unmanned ground vehicle
  - cooperative manipulation
 header:
   teaser: /assets/image/thumbnail/TASE2022.jpg
