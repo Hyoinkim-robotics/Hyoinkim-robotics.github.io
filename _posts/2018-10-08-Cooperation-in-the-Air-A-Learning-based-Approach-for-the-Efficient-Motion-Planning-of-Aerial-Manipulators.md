@@ -18,13 +18,13 @@ links:
    link: https://ieeexplore.ieee.org/abstract/document/8485637
    name: "Paper"
  - video:
-   link: https://www.youtube.com/watch?v=EoOIknh8EAs
+   link: https://www.youtube.com/watch?v=zh4sTfZsg3k
    name: "Video"
  - bibtex: 
    name: "Bibtex"
 ---
 
-{% include video id="EoOIknh8EAs" provider="youtube" %}
+{% include video id="zh4sTfZsg3k" provider="youtube" %}
 
 **Abstract:** Cooperation among multiple aerial vehicles could provide a solution for overcoming limited payload restrictions. Multiple aerial vehicles can carry a heavy or large object safely by sharing the load, alleviating the risk involved in exerting considerable inertia on a single vehicle.
 
