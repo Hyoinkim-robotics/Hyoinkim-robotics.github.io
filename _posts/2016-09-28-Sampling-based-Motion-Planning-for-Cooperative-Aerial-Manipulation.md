@@ -1,11 +1,11 @@
 ---
-title: "Sampling-based motion planning for cooperative aerial manipulation"
+title: "Sampling-based Motion Planning for Cooperative Aerial Manipulation"
 categories:
  - Research
- - Journal
+ - Conference
 tags:
- - survey
- - visual odometry
+ - planning
+ - aerial vehicle
 header:
   teaser: /assets/image/thumbnail/ICROS2017.png
 conference: ICAS

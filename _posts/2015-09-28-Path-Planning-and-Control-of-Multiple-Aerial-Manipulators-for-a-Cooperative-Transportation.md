@@ -1,12 +1,13 @@
 ---
-title: "Path planning and control of multiple aerial manipulators for a cooperative transportation"
+title: "Path Planning and Control of Multiple Aerial Manipulators for a Cooperative Transportation"
 categories:
  - Research
  - Conference
 tags:
- - panorama
- - blending
- - stitching
+ - planning
+ - control
+ - aerial vehicle
+ - aerial cooperation
 header:
   teaser: /assets/image/thumbnail/ICCAS2016.jpg
 conference: IROS

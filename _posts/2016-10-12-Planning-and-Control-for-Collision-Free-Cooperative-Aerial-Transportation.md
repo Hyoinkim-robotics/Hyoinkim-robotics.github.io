@@ -2,22 +2,20 @@
 title: "Planning and Control for Collision-free Cooperative Aerial Transportation"
 categories:
  - Research
- - Conference
+ - Journal
 tags:
- - visual odometry
- - motion segmentation
- - dynamic environment
+ - planning
+ - control
+ - aerial vehicle
+ - aerial cooperation
 header:
   teaser: /assets/image/thumbnail/MasterThesis.png
-conference: 
+conference: TASE
 authors: Hyeonbeom Lee, <u>Hyoin Kim</u> and H. Jin Kim
 links: 
  - paper: 
    link: https://ieeexplore.ieee.org/abstract/document/7589023
    name: "Paper"
- - video:
-   link: https://www.youtube.com/watch?v=v-2q4XaHWSY/
-   name: "Video"
  - bibtex: 
    name: "Bibtex"
 ---
