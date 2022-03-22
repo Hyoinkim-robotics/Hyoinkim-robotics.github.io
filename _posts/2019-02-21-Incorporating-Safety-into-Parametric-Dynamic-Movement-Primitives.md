@@ -20,6 +20,8 @@ links:
    name: "Video"
  - bibtex: 
    name: "Bibtex"
+excerpt: "Parametric dynamic movement primitives (PDMPs) are powerful motion representation algorithms, which encode multiple demonstrations and generalize them. As an online trajectory from PDMPs emulates the provided demonstrations, managing the safety guarantee of the demonstrations for a given scenario is an important issue. This letter presents a process to manage the demonstration set in PDMPs when some demonstrations are poor in terms of safety. Our proposed process distinguishes safe motion primitives from unsafe ones. In order to establish a criterion for determining whether a motion is safe or not, we calculate the safe region of the PDMPs parameters called style parameters using an optimization technique. In the optimization formulation, we calculate the unsafe style parameters that produce the closest motion to the unsafe region of the state space. By eliminating unsafe demonstrations with the parameters based on the safety criterion, and replacing them with new safe ones, we incorporate safety in the PDMPs framework. Simulation and experimental results validate that the proposed process can expand the motion primitives in the PDMPs framework to the new environmental settings by efficiently utilizing the previous demonstrations."
+
 ---
 
 {% include video id="4A_fqxlJI5Q" provider="youtube" %}
