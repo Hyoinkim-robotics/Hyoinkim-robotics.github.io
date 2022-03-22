@@ -5,8 +5,7 @@ categories:
  - Conference
 tags:
  - planning
- - aerial vechicle
- - aerial manipulation
+ - autonomous aerial vehicle
 header:
   teaser: /assets/image/thumbnail/IROS2019.jpg
 conference: IROS

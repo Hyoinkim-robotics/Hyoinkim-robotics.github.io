@@ -6,8 +6,8 @@ categories:
 tags:
  - planning
  - learning from demonstration 
- - aerial vehicle
- - aerial cooperation
+ - autonomous aerial vehicle
+ - cooperative manipulation
 header:
   teaser: /assets/image/thumbnail/SMC2017.png
 conference: ICRA

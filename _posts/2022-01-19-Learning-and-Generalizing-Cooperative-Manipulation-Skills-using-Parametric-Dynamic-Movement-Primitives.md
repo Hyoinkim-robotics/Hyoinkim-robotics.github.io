@@ -4,9 +4,10 @@ categories:
  - Research
  - Journal
 tags:
- - real-time
- - monocular
- - depth estimation
+ - planning
+ - learning from demonstration
+ - autonomous ground vehicle
+ - cooperative manipulation
 header:
   teaser: /assets/image/thumbnail/IJCAS2021.jpg
 conference: TASE

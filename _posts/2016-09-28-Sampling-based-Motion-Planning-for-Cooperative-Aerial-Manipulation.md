@@ -5,7 +5,8 @@ categories:
  - Conference
 tags:
  - planning
- - aerial vehicle
+ - autonomous aerial vehicle
+ - cooperative manipulation
 header:
   teaser: /assets/image/thumbnail/ICROS2017.png
 conference: ICAS

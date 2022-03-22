@@ -6,8 +6,8 @@ categories:
 tags:
  - planning
  - control
- - aerial vehicle
- - aerial cooperation
+ - autonomous aerial vehicle
+ - cooperative manipulation
 header:
   teaser: /assets/image/thumbnail/MasterThesis.png
 conference: TASE

@@ -5,7 +5,8 @@ categories:
  - Journal
 tags:
  - learning from demonstration
- - aerial vehicle
+ - autonomous aerial vehicle
+ - cooperative manipulation
 header:
   teaser: /assets/image/thumbnail/BMVC2019.png
 conference: RAL
